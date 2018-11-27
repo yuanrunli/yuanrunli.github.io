@@ -1,0 +1,19 @@
+{
+  "last": "0513",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxODExMjdfMTMzNDM1Cg.zip",
+  "md5":"520fba844f65396c257fc9b457ef8a06",
+  "sha1":"7dd3f735abba01b8d416b4ac99b4d28d54960263",
+  "0513": {
+    "version": "0.5.13",
+    "feature": [
+      "1.模板
+文件",
+      "1.模板",
+      "2.文件",
+    ],
+    "bugfix": [
+      "3.模板",
+      "4.文件",
+    ]
+  }
+}
