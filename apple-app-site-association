@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "CRMDXXJXD7.com.cmread.full", 
+                "paths": ["/rbc/p/*","/cbc/p/*","/mbc/p/*","/hbc/p/*","/nap/*"]
+            }
+        ]
+    }
+}
